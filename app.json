@@ -16,6 +16,7 @@
   ],
   "repository": "https://github.com/shadowninja024/drive-hording",
   "success_url": "https://t.me/Shadow_ninja_legit",
+  "stack": "heroku-18",
   "website": "https://github.com/shadowninja024/drive-hording",
   "env": {
     "ENV": {
